@@ -1,2 +1,11 @@
-# Projetos-praticando-formularios
-Repositório com a resolução de exercícios praticando formulários com HTML, CSS e JavaScript.
+# Formulários
+
+## Exercícios:
+1. Formulário de Login
+2. Formulário de Cadastro
+3. Recomendação de música
+
+
+
+###### tags: `front-end` `HTML` `DOM`
+

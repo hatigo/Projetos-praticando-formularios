@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+
+    <script src="script.js" defer></script>
+
+    <title>Exercicio 3</title>
+</head>
+
+<body>
+    <form action="https://www.google.com/search" target="_blank" method="GET">
+        <label>
+            Genêro músical 
+            <select>
+                <option hidden selected > Escolha um Estilo Músical </option>
+                <option value="rock">Rock</option>
+                <option value="forro">Forró</option>
+                <option value="pop">pop</option>
+                <option value="sertanejo">Sertanejo</option>
+                <option value="funk">Funk</option>
+            </select>
+        </label>
+        <input class="escondido" type="text" name="q">
+        <button type="submit">pesquisar musica</button>
+    </form>
+</body>
+
+</html>
